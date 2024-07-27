@@ -1,4 +1,4 @@
-<h1>Building Piano</h1>
+<h1>FREECODECAMP - Building Piano</h1>
 
 <h3>https://venuprakash.github.io/buildingpiano/</h3>
 
